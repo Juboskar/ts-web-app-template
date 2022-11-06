@@ -1,0 +1,23 @@
+{
+  "name": "ts-web-app-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juboskar/ts-web-app-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juboskar/ts-web-app-template/issues"
+  },
+  "homepage": "https://github.com/Juboskar/ts-web-app-template#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
